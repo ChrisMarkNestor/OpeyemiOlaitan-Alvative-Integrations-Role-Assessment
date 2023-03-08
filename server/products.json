@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1tE4nK",
+    "category": "Delicious and Authentic Meals",
+    "name": "Nigerian Jolloff & Co.",
+    "sku": "sku_313355",
+    "price": 295,
+    "image": "https://www.getfoodcourt.com/static/media/JollofMeall.e9e485e4b8ff9f323ecd.jpg",
+    "description": "Experience Jollof in all its splendor! From the beloved smokey jollof rice to pasta, Asaro and much more we promise you a lunch full of relish! Exclusively on FoodCourt.",
+    "description_long": "Experience Jollof in all its splendor! From the beloved smokey jollof rice to pasta, Asaro and much more we promise you a lunch full of relish! Exclusively on FoodCourt.",
+    "currency": "USD"
+  },
+  {
+    "id": "IuFGYl",
+    "category": "Hot dogs",
+    "name": "Frankies",
+    "sku": "sku_313356",
+    "price": 4995,
+    "image": "https://www.getfoodcourt.com/static/media/WingKingsMeal.342e1b8cb0368b43b334.png",
+    "description": "You’ll keep coming back for more after a first trial of the juiciest Burgers & Hotdogs in Lagos! You’ll never go wrong with this mouth-watering heavenly goodness! Exclusively on FoodCourt.",
+    "description_long": "You’ll keep coming back for more after a first trial of the juiciest Burgers & Hotdogs in Lagos! You’ll never go wrong with this mouth-watering heavenly goodness! Exclusively on FoodCourt.",
+    "currency": "USD"
+  },
+  {
+    "id": "VfcByl",
+    "category": "Beverages",
+    "name": "FC Shop",
+    "sku": "sku_622147",
+    "price": 79900,
+    "image": "https://www.getfoodcourt.com/static/media/FCShopMeal.5dccb662257816af7025.webp",
+    "description": "Shop your favorite drinks, snacks, ice cream as well as lifestyle essentials, and have them delivered to your doorstep! ",
+    "description_long": "Shop your favorite drinks, snacks, ice cream as well as lifestyle essentials, and have them delivered to your doorstep! ",
+    "currency": "USD"
+  },
+  {
+    "id": "1yF2Ib",
+    "category": "Shawarma",
+    "name": "Wrapped City",
+    "sku": "sku_125983",
+    "price": 39999,
+    "image": "https://res.cloudinary.com/olimeed/image/upload/v1659957746/ezgif.com-gif-maker_2_udinxn.jpg",
+    "description": "Experience the widest range of Shawarma flavors here. Spiced up, juicy and well seasoned - just how you like it! Exclusively on FoodCourt..",
+    "description_long": "Experience the widest range of Shawarma flavors here. Spiced up, juicy and well seasoned - just how you like it! Exclusively on FoodCourt.",
+    "currency": "USD"
+  },
+  {
+    "id": "x5m8g3",
+    "category": "SunSide",
+    "name": "Sunny Side Club ",
+    "sku": "sku_559961",
+    "price": 42900,
+    "image": "https://www.getfoodcourt.com/static/media/SunnySideClubMeall.e9a367f77b5ccb68e5fe.jpg",
+    "description": "Treat yourself each day to a morning of bliss with any of our simply delectable toast, waffles, pancakes, sandwiches, and more! Exclusively on FoodCourt",
+    "description_long": "Treat yourself each day to a morning of bliss with any of our simply delectable toast, waffles, pancakes, sandwiches, and more! Exclusively on FoodCourt",
+    "currency": "USD"
+  },
+  {
+    "id": "6Bh3pq",
+    "category": "Treats",
+    "name": "Sweet Treats",
+    "sku": "sku_119140",
+    "price": 3500,
+    "image": "https://www.getfoodcourt.com/static/media/WingKingsMeal.342e1b8cb0368b43b334.png",
+    "description": "Sweet tooth? Say no more! Satisfy those cravings with flavorsome treats of french toast, waffles, pancakes and crepes dazzled with your favorite fruit and syrup toppings! Exclusively on FoodCourt.",
+    "description_long": "Sweet tooth? Say no more! Satisfy those cravings with flavorsome treats of french toast, waffles, pancakes and crepes dazzled with your favorite fruit and syrup toppings! Exclusively on FoodCourt.",
+    "currency": "USD"
+  }
+]
