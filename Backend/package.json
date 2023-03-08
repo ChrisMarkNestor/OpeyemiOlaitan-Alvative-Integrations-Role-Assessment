@@ -8,9 +8,9 @@
   "scripts": {
     "start": "node server",
     "dev:server": "nodemon server",
-    "dev:client": "cd .. && cd client && npm start",
+    "dev:client": "cd .. && cd frontend && npm start",
     "dev": "concurrently \"npm run dev:Backend\" \"npm run dev:frontend\"",
-    "build": "cd client && npm install && npm run build"
+    "build": "cd frontend && npm install && npm run build"
   },
   "cacheDirectories": [
     "node_modules",
